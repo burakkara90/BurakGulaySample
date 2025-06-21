@@ -16,6 +16,8 @@ public class homework {
 		
 		//burak kara
 		
+		System.out.println(" I hate nuri ");
+		
 	}
 
 }
